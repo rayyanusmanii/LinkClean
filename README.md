@@ -21,12 +21,17 @@ Feel free to check out the project [here](https://chromewebstore.google.com/deta
 
 ---
 
-## Tech Stack
+## 💻 Tech Stack
 
-- **Frontend:** Chrome Extension (Manifest V3)  
-- **Backend:** Google Cloud Run
-- **AI/ML:** Gemini AI
-- **Languages/Tools:** JavaScript, HTML, CSS, Node.js  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-%23FF6600?style=for-the-badge&logo=ai&logoColor=white)
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-%23FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)
+
 
 ---
 
