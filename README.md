@@ -5,7 +5,8 @@
 
 ![LinkClean Screenshot](store_screenshot.jpg)
 
-**Feel free to check out the project [here](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb)*
+Feel free to check out the project [here](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb)!
+
 
 > Note: The backend uses serverless functions on Google Cloud to protect API keys and manage rate limits.
 
