@@ -3,7 +3,8 @@
 **LinkClean** is a Chrome extension designed to declutter LinkedIn feeds and highlight internship-relevant posts using AI. The project combines Gemeni-powered filtering with semantic analysis to make the feed cleaner more useful for students and internship seekers.
 
 
-![LinkClean Screenshot](assets/store_screenshot.png)
+![LinkClean Screenshot](store_screenshot.jpg)
+
 *You can find the project [here](https://chromewebstore.google.com/detail/jmbnaldbichedgpjbmfjflgincclpgkh?utm_source=item-share-cb)*
 
 > Note: The backend uses serverless functions on Google Cloud to protect API keys and manage rate limits.
