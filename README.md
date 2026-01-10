@@ -21,7 +21,7 @@ Feel free to check out the project [here](https://chromewebstore.google.com/deta
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,7 +30,7 @@ Feel free to check out the project [here](https://chromewebstore.google.com/deta
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-%23FF6600?style=for-the-badge&logo=ai&logoColor=white)
-![Manifest V3](https://img.shields.io/badge/Chrome_Extension-%23FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Manifest_V3-%23FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 
 ---
