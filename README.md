@@ -30,7 +30,7 @@ Feel free to check out the project [here](https://chromewebstore.google.com/deta
 ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/Gemini_AI-%23FF6600?style=for-the-badge&logo=ai&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-%23FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)
+![Manifest V3](https://img.shields.io/badge/Chrome_Extension-%23FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)
 
 
 ---
